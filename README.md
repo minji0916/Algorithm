@@ -5,7 +5,7 @@
 
 ### 문제 목록
 #### 2021-11-08 월
-#### [프로그래머스 참조](https://programmers.co.kr/learn/challenges) 출제자: minji
+#### [프로그래머스 참조](https://programmers.co.kr/learn/challenges) 
 + [숫자 문자열과 영단어, 1twothree4](https://programmers.co.kr/learn/courses/30/lessons/81301)
 + [없는 숫자 더하기, noNumberPlus](https://programmers.co.kr/learn/courses/30/lessons/86051)
 
