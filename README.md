@@ -1,13 +1,10 @@
-## 코딩 테스트 연습
-+ 매주 수요일 오후 8:00 리뷰
-+ 파일 이름은 [날짜_문제이름(영어로)_이름]으로 해주세요
-+ ex. 211108_noNumberPlus_minji.py
+## Coding Test 준비
 
 ### 문제 목록
-#### 2021-11-08 월
-#### [프로그래머스 참조](https://programmers.co.kr/learn/challenges) 
-+ [숫자 문자열과 영단어, 1twothree4](https://programmers.co.kr/learn/courses/30/lessons/81301)
-+ [없는 숫자 더하기, noNumberPlus](https://programmers.co.kr/learn/courses/30/lessons/86051)
+#### 2024-01-04 목
+#### [백준 참조](https://www.acmicpc.net/) 
++ [숫자의 합, plusOfnumber](https://www.acmicpc.net/problem/11720)
++ [평균, average](https://www.acmicpc.net/problem/1546)
 
 #### 참조 사이트
 + [깃허브 사용법](https://corinediary.tistory.com/2)
