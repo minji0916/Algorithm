@@ -12,7 +12,10 @@
 #### 레벨1 (문자열, 구현, 정렬, 해시, 그리디)
 + [폰켓몬, ponketmon](https://www.acmicpc.net/problem/11720)
 + [수박 문자열 반복, watermelon](https://www.acmicpc.net/problem/1546)
-
+#### 해시
++ [완주하지 못한 선수 : list & sort, notCompletedRunner1](https://school.programmers.co.kr/learn/courses/30/lessons/42576?language=python3)
++ [완주하지 못한 선수 : hash, notCompletedRunner2]
++ [완주하지 못한 선수 : collections.Counter, notCompletedRunner2]
 
 #### 참조 사이트
 + [깃허브 사용법](https://corinediary.tistory.com/2)
