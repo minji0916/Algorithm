@@ -21,6 +21,14 @@
 + [전화번호 목록  : sorting & loop, phonebook2]
 + [전화번호 목록  : hash, phonebook3]
 
+#### 2024-01-27 토
+#### 해시 level2
++ [소수 찾기  : Loop/Permutation solution, findPrimeNumber1](https://school.programmers.co.kr/learn/courses/30/lessons/42839)
++ [소수 찾기  : sorting & loop, findPrimeNumber2]
++ [소수 찾기  : hash, findPrimeNumber3]
++ [에라토스테네스의 체1](https://velog.io/@max9106/Algorithm-%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98-%EC%B2%B4)
++ [에라토스테네스의 체2](https://forward-movement.tistory.com/98)
+
 #### 참조 사이트
 + [깃허브 사용법](https://corinediary.tistory.com/2)
 + [README.md 작성법](https://m.blog.naver.com/jooeun0502/221956294941)
