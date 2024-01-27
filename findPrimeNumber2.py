@@ -35,7 +35,7 @@ def solution(numbers):
     recursive("", numbers)
 
 
-    # prime_set의 length를 반환
+    # 3. prime_set의 length를 반환
     return len(prime_set)
 
 print(solution("17"))
