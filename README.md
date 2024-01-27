@@ -24,8 +24,7 @@
 #### 2024-01-27 토
 #### 해시 level2
 + [소수 찾기  : Loop/Permutation solution, findPrimeNumber1](https://school.programmers.co.kr/learn/courses/30/lessons/42839)
-+ [소수 찾기  : sorting & loop, findPrimeNumber2]
-+ [소수 찾기  : hash, findPrimeNumber3]
++ [소수 찾기  : 재귀, findPrimeNumber2]
 + [에라토스테네스의 체1](https://velog.io/@max9106/Algorithm-%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98-%EC%B2%B4)
 + [에라토스테네스의 체2](https://forward-movement.tistory.com/98)
 
