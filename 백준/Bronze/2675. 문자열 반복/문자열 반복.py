@@ -1,9 +1,7 @@
 t = int(input())
 
 for _ in range(t):
-    p=""
-    r, s = input().split()
-    for a in s:
-        for i in range(int(r)):
-            p += a
-    print(p)
+    r,s = input().split()
+    for _s in s:
+        print(_s*int(r),end="")
+    print()
